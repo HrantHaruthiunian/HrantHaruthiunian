@@ -1,4 +1,4 @@
-## Hi 👏!  I'm Hrant Harutyunyan.   ![Profile views](https://gpvc.arturio.dev/HrantHaruthiunian)  
+## Hi 👏!  I'm Hrant Harutyunyan.  
 
 <img src="MyBanner.jpg">
 
@@ -20,7 +20,7 @@
 + JavaScript for Kids, Nick Morgan;
 + And many other tutorials and documentations in JS, Vue.js etc.
 
-### Here is a Dashboard of my GitHub activities:
+### Here is a Dashboard of my GitHub activities:   ![Profile views](https://gpvc.arturio.dev/HrantHaruthiunian)  
 >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HrantHaruthiunian)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrantHaruthiunian&theme=radical&show_icons=true) 
 

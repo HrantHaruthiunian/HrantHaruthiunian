@@ -1,4 +1,4 @@
-![I am Java Script developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am Java Script developer](https://github.com/HrantHaruthiunian/HrantHaruthiunian/blob/gh-pages/MyBanner.jpg)
 
 ### Hi there 👋, my name is Hrant 
 #### I am Java Script developer
@@ -10,8 +10,8 @@ Skills: JS / VUE JS / HTML / CSS
 
 
 ## Hi 👏 ! I'm Hrant Harutyunyan. 
-
-<img src="Pictures/MyPic1.jpg" height="100" width="130" align="right">
+>
+<img src="MyBanner.jpg" height="100" width="130" align="right">
 
 >
 ### 💻 My coding skills:

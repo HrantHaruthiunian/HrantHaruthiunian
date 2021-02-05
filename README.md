@@ -1,4 +1,4 @@
-## Hi 👏 ! I'm Hrant Harutyunyan.
+## Hi 👏!  I'm Hrant Harutyunyan.
 
 <img src="MyBanner.jpg">
 

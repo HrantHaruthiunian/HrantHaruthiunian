@@ -1,5 +1,10 @@
 ![I am Java Script developer](https://github.com/HrantHaruthiunian/HrantHaruthiunian/blob/gh-pages/MyBanner.jpg)
 
+>
+<img src="MyBanner.jpg">
+
+>
+
 ## Hi 👏 ! I'm Hrant Harutyunyan.
 
 >

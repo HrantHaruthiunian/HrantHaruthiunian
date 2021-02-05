@@ -2,6 +2,7 @@
 
 <img src="MyBanner.jpg">
 ---
+
 ### 💻 My coding skills:
 >
 1. Java Script;

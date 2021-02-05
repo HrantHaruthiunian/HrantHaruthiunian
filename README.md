@@ -23,7 +23,7 @@
 ### Here is a Dashboard of my GitHub activities:   ![Profile views](https://gpvc.arturio.dev/HrantHaruthiunian)  
 >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HrantHaruthiunian)](https://github.com/anuraghazra/github-readme-stats)  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrantHaruthiunian&theme=radical&show_icons=true) 
-
+---
 ### For more information, please fill free to contact:
 >
 + 📧 hharuthiunian@gmail.com;

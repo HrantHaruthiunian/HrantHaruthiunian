@@ -21,11 +21,8 @@
 + And many other tutorials and documentations in JS, Vue.js etc.
 
 **Here is a Dashboard of my GitHub activities**:
->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrantHaruthiunian&theme=radical&show_icons=true)
 
->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HrantHaruthiunian)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HrantHaruthiunian&theme=radical&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HrantHaruthiunian)](https://github.com/anuraghazra/github-readme-stats)
 
 ### For more information, please fill free to contact:
 >

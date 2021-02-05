@@ -1,6 +1,6 @@
-<img src="MyBanner.jpg">
-
 ## Hi 👏 ! I'm Hrant Harutyunyan.
+
+<img src="MyBanner.jpg">
 
 ### 💻 My coding skills:
 >

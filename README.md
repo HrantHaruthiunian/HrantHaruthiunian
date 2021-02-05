@@ -1,7 +1,7 @@
 ## Hi 👏!  I'm Hrant Harutyunyan.  
 
 <img src="MyBanner.jpg">
-___
+
 ### 💻 My coding skills:
 >
 1. Java Script;
